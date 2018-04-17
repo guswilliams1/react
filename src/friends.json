@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "image": "http://www.thebullcity.org/wp-content/uploads/2017/01/duke-002.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://i.pinimg.com/736x/b5/98/9f/b5989fbcc793d4e99b4fb8abc7669ed0--university-of-washington-seattle-washington.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://i2.wp.com/content.sportslogos.net/logos/35/882/full/2671.gif",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kentucky_Wildcats_logo.svg/2000px-Kentucky_Wildcats_logo.svg.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "http://grfx.cstv.com/schools/va/graphics/wallpapers/w-screen/VSabre_WS.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i.pinimg.com/originals/8d/99/e6/8d99e633ad12fead2f10757564b8d519.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://cdn.bleacherreport.net/images/team_logos/328x328/arizona_state.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oregon_Ducks_logo.svg/1200px-Oregon_Ducks_logo.svg.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "http://cdn6.bigcommerce.com/s-2hqm4/products/2167/images/21158/ncaa051__13189.1516133159.500.659.jpg?c=2",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://mycolorcodedlife.files.wordpress.com/2015/03/nova1-1024.jpg?w=300&h=225",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oklahoma_Sooners_logo.svg/2000px-Oklahoma_Sooners_logo.svg.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROM-6Ls91Pw4VvDf5uuK6VoVMFcLqfQXHzzg09w9C8Tyh_i7uX",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "https://i.pinimg.com/originals/a5/68/72/a56872e52f50370bfe9cac9b4558df0b.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "https://cdn.d1baseball.com/logos/teams/256/gonzaga.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpasP6KS8B9gvCIPJMRBl1xSz8wB4HuQ34f4AqVYA6nCcfzdL3g",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Miami_Hurricanes_logo.svg/2000px-Miami_Hurricanes_logo.svg.png",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "https://i.pinimg.com/originals/37/3f/77/373f779610a695b024a4feb2a9d41024.jpg",
+    "clicked": false
+  }
+]
+
